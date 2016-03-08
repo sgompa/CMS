@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Service", "CMS.Service\CMS.Service.csproj", "{1DDE88C6-02B2-42C9-9ED9-7605499F62BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS.Dal", "CMS.Dal\CMS.Dal.csproj", "{3C86AE61-CB46-428B-B4BA-A40CCA924134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DDE88C6-02B2-42C9-9ED9-7605499F62BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DDE88C6-02B2-42C9-9ED9-7605499F62BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DDE88C6-02B2-42C9-9ED9-7605499F62BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DDE88C6-02B2-42C9-9ED9-7605499F62BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C86AE61-CB46-428B-B4BA-A40CCA924134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C86AE61-CB46-428B-B4BA-A40CCA924134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C86AE61-CB46-428B-B4BA-A40CCA924134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C86AE61-CB46-428B-B4BA-A40CCA924134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

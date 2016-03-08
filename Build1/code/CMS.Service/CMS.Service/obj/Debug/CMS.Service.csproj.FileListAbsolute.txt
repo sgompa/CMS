@@ -1,0 +1,5 @@
+D:\Contacts Module\Build1\code\CMS.Service\CMS.Service\obj\Debug\CMS.Service.csprojResolveAssemblyReference.cache
+D:\Contacts Module\Build1\code\CMS.Service\CMS.Service\bin\Debug\CMS.Service.dll
+D:\Contacts Module\Build1\code\CMS.Service\CMS.Service\bin\Debug\CMS.Service.pdb
+D:\Contacts Module\Build1\code\CMS.Service\CMS.Service\obj\Debug\CMS.Service.dll
+D:\Contacts Module\Build1\code\CMS.Service\CMS.Service\obj\Debug\CMS.Service.pdb
